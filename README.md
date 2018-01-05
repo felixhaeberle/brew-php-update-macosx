@@ -1,5 +1,5 @@
 # brew-php-update-macosx
-Here are some brew commands to update your macosx php version to 7.1, including curl and mcrypt.
+Here are some brew commands to **update your macosx php version to 7.1**, including curl and mcrypt.
 
 ### First step
 
@@ -9,7 +9,7 @@ If you haven't `brew` installed on your local machine, feel free to do so with
 
 Copy and paste that snippet in your `Terminal` and the script will guide you through the installation process.
 
-You can get more info for the installation process here: (brew.sh)[https://brew.sh]
+You can get more info for the installation process here: [brew.sh](https://brew.sh)
 
 ### Second step
 
