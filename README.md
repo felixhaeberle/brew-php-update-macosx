@@ -18,7 +18,6 @@ If you have brew installed, follow the commands provided in the `brew_php71_maco
 Or type in the following:
 
 ```
-
 brew tap homebrew/dupes
 brew tap homebrew/versions
 brew tap homebrew/homebrew-php
@@ -30,5 +29,4 @@ brew install php71-mcrypt php71-imagick
 brew info php71
 sudo apachectl restart
 source ~/.profile
-
 ```
