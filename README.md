@@ -30,3 +30,11 @@ brew info php71
 sudo apachectl restart
 source ~/.profile
 ```
+
+### Third step - **Good to know**
+
+If you check your php version with `php -v` in your terminal and it still shows the old version, type in
+
+`export PATH=/usr/local/php5/bin:$PATH`
+
+The PATH settings should then update to the proper version.
