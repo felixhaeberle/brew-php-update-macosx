@@ -38,3 +38,9 @@ If you check your php version with `php -v` in your terminal and it still shows 
 `export PATH=/usr/local/php5/bin:$PATH`
 
 The PATH settings should then update to the proper version.
+
+### Links
+
+- [Best php source of macosx (with upgrade instructions) (php-osx.liip.ch)](https://php-osx.liip.ch/)
+- [Stackoverflow on HowTo Upgrade to PHP 7.1](https://stackoverflow.com/questions/2526085/how-do-i-upgrade-php-in-mac-os-x)
+- [Nice blog post on howto upgrade](https://developerjack.com/blog/2016/installing-php71-with-homebrew/)
